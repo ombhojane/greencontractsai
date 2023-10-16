@@ -8,6 +8,8 @@ Data Source: Historical blockchain transaction data, including smart contract ex
 
 2. Deep Learning: Deep neural networks (DNNs), such as convolutional neural networks (CNNs) and recurrent neural networks (RNNs), can capture complex patterns in the data. Recurrent networks are especially useful for sequential data like blockchain transactions.
 
+3. Dataset: https://huggingface.co/andstor/gpt-j-6B-smart-contract
+
 ## Process Flow
 
 1. User Registration and Onboarding
